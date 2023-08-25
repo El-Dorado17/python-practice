@@ -1,3 +1,20 @@
+print(" ")
+print( "***** WELCOME TO THE BEGINNING OF MY PY PRACTICE *****")
+print(" "), print(" "), print(" ")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #? Data Types:
 #Numbers
@@ -43,9 +60,7 @@ else:
     print("it's just another day")
 
 
-
-
-    months = {
+months = {
     1: 'January',
     2: 'February',
     3: 'March',
@@ -59,3 +74,25 @@ else:
     11: 'November',
     12: 'December'
 }
+
+
+
+
+
+
+
+
+# iterate over numbers and only show even
+
+# count = 0 
+
+# for number in range(1, 10):
+#     if number % 2 == 0:
+#         count += 1
+#         print (number)
+#         print(f"we have {count} even Numbers")
+
+
+print(" "), print(" "), print(" ")
+print( "******* THANK YOU FOR VIEWING MY PY PRACTICE *******")
+print(" ")
